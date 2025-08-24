@@ -1,0 +1,6 @@
+Date,Product,Region,Sales,Quantity
+2025-07-25,Laptop,North,1200.0,2.0
+2025-07-27,Tablet,East,450.0,3.0
+,Laptop,West,1300.0,4.0
+2025-07-29,nan,North,0.0,4.0
+,Mobile,North,900.0,4.0
